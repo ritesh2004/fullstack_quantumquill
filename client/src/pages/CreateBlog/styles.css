@@ -1,0 +1,22 @@
+.custom-editor{
+    background-color: #424f5f;
+}
+.toolbar{
+    background-color: #424f5f;
+    border: 50%;
+}
+.submit{
+    transition: transform 3s ease-in-out;
+}
+textarea {
+    --jd-color-background-default: #417505;
+    --jd-color-border: #474025;
+    --jd-color-panel: #5fd3a2;
+    --jd-color-icon: #8b572a;
+}
+#summer {
+    --jd-color-background-default: #978de9;
+    --jd-color-border: #350ef7;
+    --jd-color-panel: #144166;
+    --jd-color-icon: #ffffff;
+}
